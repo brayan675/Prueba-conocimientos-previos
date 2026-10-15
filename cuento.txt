@@ -1,2 +1,3 @@
 el principito 
 era un niño 
+hola me llamo brayan y esta es mi proceso en aprender git
